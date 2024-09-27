@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyCD3EZRUTyfodhJ2S6yUmwKAOorGCpLqNg",
-  authDomain: "topchefhubs.firebaseapp.com",
-  databaseURL: "https://topchefhubs-default-rtdb.firebaseio.com",
-  projectId: "topchefhubs",
-  storageBucket: "topchefhubs.appspot.com",
-  messagingSenderId: "1030895912123",
-  appId: "1:1030895912123:web:c0d178279087996ba9959e",
+  apiKey: "AIzaSyB02u7PYiIlYeBPXfn5loEbvAZr73cHOc4",
+  authDomain: "glamasiadb.firebaseapp.com",
+  databaseURL: "https://glamasiadb-default-rtdb.firebaseio.com",
+  projectId: "glamasiadb",
+  storageBucket: "glamasiadb.appspot.com",
+  messagingSenderId: "8104372885",
+  appId: "1:8104372885:web:8de326d83c846eb5c9499c"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
