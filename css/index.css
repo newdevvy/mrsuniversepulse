@@ -1,0 +1,54 @@
+#home {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+#choose {
+  display: none;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Additional styles for close button */
+#fb_wrapper {
+  margin: 0;
+  padding: 10;
+  height: 100%;
+  width: 100%;
+  display: none;
+  position: fixed;
+}
+#ig_wrapper {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100%;
+  display: none;
+  position: fixed;
+}
+#choose_fb {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 5px;
+}
+#choose_ig {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  top: 5px;
+}
+
+.uiBoxRed {
+  background-color: #ffebe8;
+  border: 1px solid #dd3c10;
+}
+
+.pam {
+  padding: 10px;
+}
+
+._3-95 {
+  margin-bottom: 8px;
+}
