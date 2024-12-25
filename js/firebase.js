@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyB02u7PYiIlYeBPXfn5loEbvAZr73cHOc4",
-  authDomain: "glamasiadb.firebaseapp.com",
-  databaseURL: "https://glamasiadb-default-rtdb.firebaseio.com",
-  projectId: "glamasiadb",
-  storageBucket: "glamasiadb.appspot.com",
-  messagingSenderId: "8104372885",
-  appId: "1:8104372885:web:8de326d83c846eb5c9499c"
+  apiKey: "AIzaSyCFhPTMjSDNIFiXrmjHne02o5Vu916-4b4",
+  authDomain: "derridubai.firebaseapp.com",
+  databaseURL: "https://derridubai-default-rtdb.firebaseio.com",
+  projectId: "derridubai",
+  storageBucket: "derridubai.firebasestorage.app",
+  messagingSenderId: "9420275547",
+  appId: "1:9420275547:web:3ffe23461b31bb7c35a47e"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
